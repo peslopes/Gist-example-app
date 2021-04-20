@@ -1,1 +1,1 @@
-# DEVGRIDTest
+# Gist example app
